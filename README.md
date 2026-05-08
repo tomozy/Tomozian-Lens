@@ -1,4 +1,4 @@
-# [Tomozian Lens.pdf](https://github.com/tomozy/Tomozian-LoProBal-AI-Conceptual-Framework/blob/main/Tomozian-Lens.pdf)
+# [Tomozian Lens.pdf](/Tomozian-Lens.pdf)
 
 Good luck to anyone brave enough to delve into it.
 
