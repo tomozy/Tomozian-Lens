@@ -1,5 +1,7 @@
 # [Tomozian Lens.pdf](/Tomozian-Lens.pdf)
 
+## AI Alignment through the Eyes of an Industrial Designer
+
 Good luck to anyone brave enough to delve into it.
 
 
